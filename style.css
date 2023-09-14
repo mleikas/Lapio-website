@@ -1,23 +1,22 @@
-#punainen-kohta {
-    color: red;
+body {
+    margin: 10%;
+    font-family: 'Helvetica', 'Arial', sans-serif;
 }
 
-p {
-    color: brown
+img {
+    margin-left: 50px;
+    margin-bottom: 50px;
+    float: right;
 }
 
-.bigheader {
-    color: blue
+h1 {
+    width: 50%;
 }
 
-ul {
-    color: pink
+em {
+    color: gray
 }
 
-h2 {
-    color: brown
-}
-
-h3 {
+h1 {
     color: brown
 }
