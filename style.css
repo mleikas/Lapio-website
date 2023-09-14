@@ -1,3 +1,23 @@
+#punainen-kohta {
+    color: red;
+}
+
 p {
-    background-color: red;
+    color: brown
+}
+
+.bigheader {
+    color: blue
+}
+
+ul {
+    color: pink
+}
+
+h2 {
+    color: brown
+}
+
+h3 {
+    color: brown
 }
